@@ -1,0 +1,9 @@
+{
+  "name": "Kshitij Study Tracker",
+  "short_name": "Study Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#5b57d6",
+  "description": "Personal study management tracker"
+}
